@@ -55,3 +55,6 @@ echo hello bash > stdout.txt
 > stdout.txt
 bad_command
 bad_command > stderr.txt
+stderr > stderr.txt
+stderr 2> stderr.txt
+bad_command 2> stderr.txt
