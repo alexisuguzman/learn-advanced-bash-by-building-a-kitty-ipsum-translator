@@ -81,3 +81,4 @@ chmod +x script.sh
 echo waza
 echo waza
 echo waza
+./script.sh < name.txt
