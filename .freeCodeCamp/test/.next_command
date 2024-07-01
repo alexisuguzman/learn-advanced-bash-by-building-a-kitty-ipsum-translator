@@ -262,3 +262,4 @@ grep meow[a-z]* kitty_ipsum_2.txt -o
 grep meow[a-z]* kitty_ipsum_2.txt -o
 echo -e "\nLines that they appear on:" >> kitty_info.txt
 grep meow[a-z]* kitty_ipsum_2.txt -n
+grep cat[a-z]* kitty_ipsum_2.txt --color
