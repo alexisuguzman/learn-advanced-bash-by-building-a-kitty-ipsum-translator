@@ -222,3 +222,5 @@ grep meow[a-z]* kitty_ipsum_1.txt -n
 grep meow[a-z]* kitty_ipsum_1.txt -n
 grep meow[a-z]* kitty_ipsum_1.txt -n
 man sed
+man sed
+grep meow[a-z]* kitty_ipsum_1.txt -n
