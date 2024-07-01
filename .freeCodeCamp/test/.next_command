@@ -231,3 +231,7 @@ grep meow[a-z]* kitty_ipsum_1.txt -n
 grep meow[a-z]* kitty_ipsum_1.txt -n
 grep meow[a-z]* kitty_ipsum_1.txt -n
 grep meow[a-z]* kitty_ipsum_1.txt -n
+grepcat[a-z]** kitty_ipsum_1.txt --color
+grepcat[a-z]* kitty_ipsum_1.txt --color
+__vsc_prompt_cmd_original
+grep cat[a-z]* kitty_ipsum_1.txt --color
