@@ -67,3 +67,4 @@ echo freeCodeCamp > name.txt
 read NAME > name.txt
 read NAME < name.txt
 echo $NAME
+echo Alexis
