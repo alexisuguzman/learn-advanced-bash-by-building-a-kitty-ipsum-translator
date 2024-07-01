@@ -219,3 +219,4 @@ sed 's/freecodecamp/f233C0d3C@mp/i' < name.txt
 cat name.txt
 grep meow[a-z]* kitty_ipsum_1.txt
 grep meow[a-z]* kitty_ipsum_1.txt -n
+grep meow[a-z]* kitty_ipsum_1.txt -n
