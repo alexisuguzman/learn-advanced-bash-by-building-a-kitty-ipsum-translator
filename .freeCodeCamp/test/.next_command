@@ -70,3 +70,4 @@ echo $NAME
 echo Alexis
 echo %NAME
 echo $NAME
+cat
